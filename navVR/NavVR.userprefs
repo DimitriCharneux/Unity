@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\navVR\Assets\Scripts\scene\AgentExample.cs">
+    <Files>
+      <File FileName="..\navVR\Assets\Scripts\scene\AgentExample.cs" Line="113" Column="4" />
+      <File FileName="..\navVR\Assets\Scripts\scene\AgentFaux.cs" Line="17" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
